@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7526882
+  brandStrength: 0.702509
+  lightness: 0.5609319
+  rhythmicContrast: 0.4767025
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 1
+name: Niteoproperties
